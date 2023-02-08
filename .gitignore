@@ -9,3 +9,5 @@ acesso-aws.txt
 *.tfstate.*
 
 *.pem
+*.zip
+**/aws/*
