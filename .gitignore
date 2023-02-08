@@ -9,5 +9,5 @@ acesso-aws.txt
 *.tfstate.*
 
 *.pem
-*.zip
+awscliv2.zip
 **/aws/*
